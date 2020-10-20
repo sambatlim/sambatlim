@@ -1,9 +1,8 @@
-[![Sambat Lim - https://twitter.com/Sambathlim86]()](https://twitter.com/Sambathlim86)
-
+![](./0.jpg)
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="" />
+      <img width="400" src="./profile.jpg" />
     </td>
     <td style="border: 0";>
       <h3>
