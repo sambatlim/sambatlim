@@ -6,7 +6,7 @@
     </td>
     <td style="border: 0";>
       <h3>
-        Full name: Sambat Lim
+        Sambat Lim
       </h3>
       <hr>
       <p>
