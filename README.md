@@ -31,3 +31,7 @@
   </tr>
 </table>
 
+### Github Stats
+
+[![Sambatlim's Github Stats](https://github-readme-stats.vercel.app/api?username=sambatlim&count_private=true&theme=default&show_icons=true)](https://github.com/sambatlim)
+
