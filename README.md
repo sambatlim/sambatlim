@@ -1,7 +1,7 @@
 
-<div style="min-width:100%">
-  <img style="max-width: 100%; height: auto;" src="./0.jpg" />
-</div>
+
+ <img style="max-width: 100%; height: auto;" src="./0.jpg" />
+
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
