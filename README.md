@@ -24,7 +24,7 @@
           🐦 <a href="https://twitter.com/Sambathlim86">Follow me on Twitter</a>
         </li>
         <li>
-          📬 <a href="https://www.linkedin.com/in/sambatlim/">Connect via linkedin</a>
+          💼 <a href="https://www.linkedin.com/in/sambatlim/">Connect via linkedin</a>
         </li>
       </ul>
     </td>
