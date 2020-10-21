@@ -1,6 +1,6 @@
 
 <div style="min-width:100%">
-  <img min-width="100%" src="./0.jpg" />
+  <img style="max-width: 100%; height: auto;" src="./0.jpg" />
 </div>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
