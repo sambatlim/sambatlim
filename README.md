@@ -1,4 +1,7 @@
-![](./0.jpg)
+
+<div style="min-width:100%">
+  <img style="width:100%" src="./0.jpg" />
+</div>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
