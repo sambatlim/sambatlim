@@ -13,7 +13,7 @@
       </h3>
       <hr>
       <p>
-        ☀️ By day, I'm a full stack web developer at <a href="https://www.nectec.or.th/en/">NECTEC<a/>.
+        ☀️ By day, I'm a full stack web developer.
       </p>
       <p>
         😎 Weekend, I'm an <a href="https://sambat-tech.netlify.app/">author on sambatlim.tech</a>, I also love sharing <a href="https://www.youtube.com/channel/UCs4y2CueccxT6ZmAAlZkBNQ?view_as=subscriber">General knowledge youtube channel</a> and <a href="https://www.youtube.com/channel/UCboO92SLHoZp1eq_bcFLGNQ">Programming youtube channel</a> .
