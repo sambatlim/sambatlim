@@ -1,11 +1,7 @@
-
-
- <img style="max-width: 100%; height: auto;" src="./0.jpg" />
-
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="./profile.jpg" />
+      <img width="400" src="./profile.png" />
     </td>
     <td style="border: 0";>
       <h3>
