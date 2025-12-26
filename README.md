@@ -27,9 +27,3 @@
   </tr>
 </table>
 
-### Github Stats
-
-[![Sambatlim's Github Stats](https://github-readme-stats.vercel.app/api?username=sambatlim&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/sambatlim)
-</br>
-![](https://komarev.com/ghpvc/?username=sambatlim&color=orange)
-
